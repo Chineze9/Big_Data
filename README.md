@@ -86,5 +86,7 @@ What statistical test would you use to test the Hypothesis?  And why?
 What data is needed to run the statistical tests?
 A t-test is used as a hyoothesis testing tool, which allows testing of an assumption applicable to a population.  A t-test looks at the t-statistic, the t-distribution values, and the degrees of freedom to determine the statistical significance.
 
+
+What data is needed to run the statistical test?
 For a statistical test to be valid, your sample size needs to be large enough to approximate the true distribution of the population being studied.  You will need to know your data meets certain assumptions and the type of variable you are dealing with. 
 
